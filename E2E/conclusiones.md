@@ -1,0 +1,4 @@
+# Conclusiones
+1. La realización de pruebas end-to-end (E2E) nos permitió detectar posibles errores o fallas en el flujo completo de la aplicación, desde el inicio hasta el final del proceso. Esto incluye la interacción del usuario con la interfaz, así como la validación de datos y acciones realizadas en el backend.
+2. Al usar assert en nuestras pruebas Selenium, podemos verificar que los elementos estén presentes, que tengan el contenido correcto, que estén visibles o interactuables según lo esperado, entre otras condiciones. Esto nos permite detectar rápidamente problemas o discrepancias en el comportamiento de la aplicación.
+3. La automatización de las pruebas E2E nos permitió ejecutar los casos de prueba de manera repetida y consistente, lo que garantiza la estabilidad del sistema a lo largo del tiempo y facilita la detección de regresiones en nuevas versiones del software.

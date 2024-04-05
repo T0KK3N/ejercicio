@@ -1,0 +1,21 @@
+{
+  "name": "ejerciciopractico",
+  "version": "1.0.0",
+  "description": "apis option 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "apis",
+    "cypress",
+    "automation",
+    "framework"
+  ],
+  "author": "Daniel Mora",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
